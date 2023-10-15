@@ -104,7 +104,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sanehasangwan78&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDC846&currStreakNum=DDDDDD" alt="streak image" width=50% height=100%/>
 <img src="https://github-readme-stats.vercel.app/api?username=sanehasangwan78&show_icons=true&count_private=true&theme=react"  width=47.4% height=100%/>
 
-[![amanjaiman1's GitHub | Stats](https://stats.quine.sh/sanehasangwan78/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sanehasangwan78)
+[![sanehasangwan78's GitHub | Stats](https://stats.quine.sh/sanehasangwan78/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sanehasangwan78)
 <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanehasangwan78&theme=react&layout=compact" width="400px" alt="Language stats image" -->
 <br> <br>
 <img alt="Activity Graph" src="https://img.icons8.com/?size=52&id=16931&format=png" />
