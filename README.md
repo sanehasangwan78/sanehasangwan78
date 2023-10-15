@@ -16,7 +16,7 @@
 - :boom: You can visit [MY WEBSITE](https://amanjaiman.me).
   <br>
 <p align="center"><b>Profile Views</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bamanjaiman1%7D/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Bsanehasangwan78%7D/count.svg" alt="visitor badge"/></p>
 <br>
 
 
