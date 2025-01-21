@@ -12,8 +12,8 @@
 - :computer: I am a competitive programmer at `GeeksForGeeks`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `keen to learn and develop new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Aman_jaiman_Resume).
-- :boom: You can visit [MY WEBSITE](https://amanjaiman.me).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Saneha_Sangwan_Resume).
+- :boom: You can visit [MY WEBSITE](https://sanehasangwan78).
   <br>
 <p align="center"><b>Profile Views</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bsanehasangwan78%7D/count.svg" alt="visitor badge"/></p>
@@ -25,21 +25,21 @@
 
 ## 🌐 Socials: <br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/aman-jaiman-b4a36b199/" target="blank"><img align="center"
+<!--   <a href="https://www.linkedin.com/in/aman-jaiman-b4a36b199/" target="blank"><img align="center"
       src="https://img.icons8.com/?size=512&id=13930&format=png"
       alt="adam pithewan" height="50" width="50" /></a> &nbsp;&nbsp;
   <a href="https://www.facebook.com/aman.jaiman.94" target="blank"><img align="center"
       src="https://img.icons8.com/?size=512&id=uLWV5A9vXIPu&format=png"
       alt="adam pithen wala" height="50" width="50" /></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/are.jaiman_sahab/" target="blank"><img align="center"
-      src="https://img.icons8.com/?size=512&id=119026&format=png"
-      alt="_._.adam._" height="50" width="50" /></a>&nbsp;&nbsp;
+      src="https://img.icons8.com/?size=512&id=119026&format=png" -->
+<!--       alt="_._.adam._" height="50" width="50" /></a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/amanjaiman890" target="blank"><img align="center"
       src="https://img.icons8.com/?size=512&id=OUPsEPLKIebZ&format=png"
       alt="adampithewan" height="50" width="50" /></a>&nbsp;&nbsp;
  <a href="https://twitter.com/AMANJAIMAN6" target="blank"><img align="center"
       src="https://img.icons8.com/?size=512&id=13963&format=png"
-      alt="adampithewan" height="50" width="50" /></a>
+      alt="adampithewan" height="50" width="50" /></a> -->
 </p> <br>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px">&nbsp;&nbsp;***Languages & Tools I Know...***
